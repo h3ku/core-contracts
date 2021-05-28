@@ -12,7 +12,7 @@ DApp : https://aperocket.finance/
 
 ## ApeRocket.Finance Utils
 
- - Dashboard :  [0xe64AA77B1719eFf35D6740cB99200a193B8d6c97](https://bscscan.com/token/0xe64AA77B1719eFf35D6740cB99200a193B8d6c97)
+ - Dashboard :  [0xe64AA77B1719eFf35D6740cB99200a193B8d6c97](https://bscscan.com/address/0xe64AA77B1719eFf35D6740cB99200a193B8d6c97)
 
 ## ApeRocket Pools Contracts
 
